@@ -1,0 +1,20 @@
+body {
+    color:black;
+    border: 4px double pink 
+    
+}
+h1 {
+    color: blue
+}
+h2 {
+    color: brown
+}
+em {
+    color: gold
+}
+strong {
+    color: red
+}
+ul li {
+    color: green
+}
